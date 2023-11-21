@@ -38,16 +38,32 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arturo12321&show_icons=true&locale=en&layout=compact" alt="arturo12321" /></p>
+<p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arturo12321&show_icons=true&locale=en" alt="arturo12321" /></p>
+<!--
+<a href="https://github.com/bpradiip?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=bpradiip&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@bpradiip's github-readme-stats"/></a>
+-->
+
+<a href="https://github.com/arturo12321?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=arturo12321&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="100%" alt="@arturo12321's github-readme-stats"/></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
-# My GitHub Stats
 
-### GitHub Activity Graph
+<a href="https://github.com/arturo12321?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=arturo12321&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="100%" alt="@arturo12321's github-readme-streak-stats"/></a>
 
-[![Valerio Manrique's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arturo12321)](https://github.com/arturo12321)
+</p>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+
+<p align="center">
+    <a href="https://wakatime.com/@arturo12321">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=arturo12321&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
+    </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 ### GitHub Streak
 <div align="center">
