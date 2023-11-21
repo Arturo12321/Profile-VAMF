@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,angularjs,arduino,aws,bootstrap,csharp,docker,dotnet,ember,express,figma,firebase,git,html5,javascript,jest,kotlin,mariadb,mocha,mongodb,mssql,mysql,nodejs,oracle,pandas,postgresql,postman,react,reactnative,sass,sqlite,tailwind,xamarin  )](https://github.com/heyValdemar)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,linux,arduino,aws,bootstrap,c#,docker,dotnet,ember,express,figma,firebase,git,html5,javascript,jest,kotlin,mariadb,mocha,mongodb,mssql,mysql,nodejs,oracle,pandas,postgresql,postman,react,reactnative,sass,sqlite,tailwind,xamarin,netlify,github,gitlab,maven,wordpress,vscode  )](https://github.com/heyValdemar)
 
 
 ![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
