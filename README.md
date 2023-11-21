@@ -25,7 +25,7 @@
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
-<h1 align="center">Connect With Me:</h1>
+<h1 align="center">Connect With Me</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/valerio-manrique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arturo12321" height="40" width="50" /></a>
 <a href="https://www.facebook.com/arturovalerio.manriquefalcon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arturo12321" height="40" width="50" /></a>
@@ -34,12 +34,9 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
-<h1 align="center">Languages and Tools:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,linux,arduino,aws,bootstrap,docker,dotnet,eclipse,ember,express,figma,firebase,git,html,css,javascript,jest,kotlin,mongodb,mysql,nodejs,postgresql,postman,react,sass,sqlite,tailwind,visualstudio,netlify,github,gitlab,maven,wordpress,vscode,c,cs,r)](https://github.com/arturo12321)
 
 
-<h2 align="center">💻 Favourite Tools and Technologies:</h2>
+<h1 align="center">💻 Favorite Tools and Technologies</h1>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -59,14 +56,6 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
@@ -84,9 +73,6 @@
     </td>
   </tr>
   <tr>
-  <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
@@ -94,10 +80,6 @@
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -129,12 +111,7 @@
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
       </td>
-      </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-            <td align="center" width="96">
+        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
@@ -143,20 +120,16 @@
       <br>WordPress
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue
-    </td>
-              <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
       <br>Sass
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
+  <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
+    </td>
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="REST" />
+      <br>REST
     </td>
  </tr>
 </table>
@@ -210,7 +183,6 @@
 <a href=#><img src="contributions.svg"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
-### GitHub Streak
 <div align="center">
 
 [![gitHub streak](https://github-readme-streak-stats.herokuapp.com?user=arturo12321&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=9046FF&ring=9046FF&fire=9046FF&currStreakNum=9046FF&sideNums=9046FF&currStreakLabel=9046FF&sideLabels=9046FF&dates=9046FF)](https://github.com/arturo12321)
